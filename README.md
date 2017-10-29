@@ -1,6 +1,6 @@
 # StartFolio
 
-An ASP.NET Core web application, aimed at simplicatin online portfolio creation process.
+An ASP.NET Core web application, aimed at simplication of online portfolio creation process.
 
 ## Getting Started
 
